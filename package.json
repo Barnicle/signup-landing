@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "next -p 4444",
-    "build": "next"
+    "start": "next start",
+    "build": "next build"
   },
   "browserslist": {
     "production": [
